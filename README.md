@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/NimeshaMG/NimeshaMG/blob/main/Nimesha-ezgif.com-video-to-gif-converter.gif?raw=true" alt="Animated Cover" width="50%">
+  <img src="https://github.com/NimeshaMG/NimeshaMG/blob/main/Nimesha.gif?raw=true" alt="Animated Cover" width="50%">
 </p>
 
 
