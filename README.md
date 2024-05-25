@@ -1,3 +1,7 @@
+[![Watch the Video](https://path_to_your_thumbnail.jpg)](https://youtu.be/t025SsN-qUk)
+
+
+
 <h1 align="center">Hi 👋, I'm Nimesha Gunaratne</h1>
 <h3 align="center">Aspiring Web Developer and Data Analyst Actively Seeking Employment</h3>
 
