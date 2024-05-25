@@ -1,4 +1,7 @@
-[![Watch the Video](https://path_to_your_thumbnail.jpg)](https://youtu.be/t025SsN-qUk)
+<p align="center">
+  <img src="https://github.com/NimeshaMG/NimeshaMG/blob/main/Nimesha-ezgif.com-video-to-gif-converter.gif?raw=true" alt="Animated Cover" width="50%">
+</p>
+
 
 
 
