@@ -79,3 +79,13 @@
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
+
+## 📈 GitHub Stats
+![NimeshaMG's GitHub stats](https://github-readme-stats.vercel.app/api?username=NimeshaMG&show_icons=true&theme=react)
+
+## 🔥 GitHub Streak
+![NimeshaMG's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NimeshaMG&theme=react)
+
+## 💻 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NimeshaMG&langs_count=8&theme=react&layout=compact)
+
